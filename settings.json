@@ -1,0 +1,9 @@
+[
+    {
+        "blocklist": "block.txt",
+        "start_hours": 0,
+        "start_minutes": 1,
+        "stop_hours": 23,
+        "stop_minutes": 59
+    }
+]
